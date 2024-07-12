@@ -1,0 +1,17 @@
+
+
+/*-----------------------------*\
+#CSS VARIABLES
+\*-----------------------------*/
+
+:root{
+    --grey-background: #F5F7F8;
+    --grey-one: #BFBDBE;
+    --grey-two: #9A9A9A;
+    --grey-three: #828186;
+    --grey-four: #6E6F71;
+    --grey-five: #535352;
+    --grey-six: #2D2D2D;
+    --primary-color-yellow:#FECE02;
+    --second-color-darkRed:#901C1F;
+}
